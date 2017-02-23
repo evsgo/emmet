@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/evsgo/emmet.git"
+    "url": "git://github.com/emmetio/emmet.git"
   },
   "keywords": [
     "emmet",
@@ -20,7 +20,7 @@
   "author": "Sergey Chikuyonok",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/evsgo/emmet/issues"
+    "url": "https://github.com/emmetio/emmet/issues"
   },
   "devDependencies": {
     "browserify": "^6.3.2",
